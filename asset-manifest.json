@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "https://harshtalks.github.io/csb-h00kg/static/css/main.03a90927.chunk.css",
+    "main.js": "https://harshtalks.github.io/csb-h00kg/static/js/main.3bf0f3be.chunk.js",
+    "main.js.map": "https://harshtalks.github.io/csb-h00kg/static/js/main.3bf0f3be.chunk.js.map",
+    "runtime-main.js": "https://harshtalks.github.io/csb-h00kg/static/js/runtime-main.2db92e91.js",
+    "runtime-main.js.map": "https://harshtalks.github.io/csb-h00kg/static/js/runtime-main.2db92e91.js.map",
+    "static/js/2.8a6ff14f.chunk.js": "https://harshtalks.github.io/csb-h00kg/static/js/2.8a6ff14f.chunk.js",
+    "static/js/2.8a6ff14f.chunk.js.map": "https://harshtalks.github.io/csb-h00kg/static/js/2.8a6ff14f.chunk.js.map",
+    "index.html": "https://harshtalks.github.io/csb-h00kg/index.html",
+    "precache-manifest.2ff8f394e718aa8e3cdc10b30f59143c.js": "https://harshtalks.github.io/csb-h00kg/precache-manifest.2ff8f394e718aa8e3cdc10b30f59143c.js",
+    "service-worker.js": "https://harshtalks.github.io/csb-h00kg/service-worker.js",
+    "static/css/main.03a90927.chunk.css.map": "https://harshtalks.github.io/csb-h00kg/static/css/main.03a90927.chunk.css.map",
+    "static/js/2.8a6ff14f.chunk.js.LICENSE.txt": "https://harshtalks.github.io/csb-h00kg/static/js/2.8a6ff14f.chunk.js.LICENSE.txt",
+    "static/media/arrow-left.f9a44e1c.svg": "https://harshtalks.github.io/csb-h00kg/static/media/arrow-left.f9a44e1c.svg",
+    "static/media/arrow-right.dc372a07.svg": "https://harshtalks.github.io/csb-h00kg/static/media/arrow-right.dc372a07.svg",
+    "static/media/curology-min.png": "https://harshtalks.github.io/csb-h00kg/static/media/curology-min.e84c2055.png",
+    "static/media/lumin-min.png": "https://harshtalks.github.io/csb-h00kg/static/media/lumin-min.379bad94.png",
+    "static/media/up-arrow-cirlce.24e8d8f2.svg": "https://harshtalks.github.io/csb-h00kg/static/media/up-arrow-cirlce.24e8d8f2.svg",
+    "static/media/yourspace-min.png": "https://harshtalks.github.io/csb-h00kg/static/media/yourspace-min.5f9e3077.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2db92e91.js",
+    "static/js/2.8a6ff14f.chunk.js",
+    "static/css/main.03a90927.chunk.css",
+    "static/js/main.3bf0f3be.chunk.js"
+  ]
+}
